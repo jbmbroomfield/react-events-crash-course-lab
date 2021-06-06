@@ -19,7 +19,7 @@ export default class ChromeBoisDomain extends Component {
       case 'a':
         resize('+')
         break
-      case 'saaa':
+      case 's':
         resize('-')
     }
   }
